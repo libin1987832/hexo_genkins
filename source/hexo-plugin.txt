@@ -1,0 +1,4 @@
+hexo-blog-encrypt
+npm uninstall hexo-generator-index --save
+npm install hexo-deployer-git --save
+npm install hexo-generator-index-pin-top --save

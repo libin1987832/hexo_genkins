@@ -1,0 +1,41 @@
+<% if (theme.fancybox){ %>
+  <%- css('fancybox/jquery.fancybox') %>
+<% } %>
+
+<script>
+	var yiliaConfig = {
+		fancybox: <%=theme.fancybox%>,
+		mathjax: <%=theme.mathjax%>,
+		animate: <%=theme.animate%>,
+		isHome: <%=is_home()%>,
+		isPost: <%=is_post()%>,
+		isArchive: <%=is_archive()%>,
+		isTag: <%=is_tag()%>,
+		isCategory: <%=is_category()%>,
+		open_in_new: <%=theme.open_in_new%>
+	}
+</script>
+
+<%- js('js/main') %>
+
+
+<% if (theme.mathjax){ %>
+<%- partial('mathjax') %>
+<% } %>
+<% if (theme.mermaid.enable) { %>
+<!--  <script src='https://unpkg.com/mermaid@8.2.6/dist/mermaid.js'></script>-->
+  <!--<%- js('js/mermaid') %>-->
+  <script>
+  
+
+/*      		 if (window.mermaid) 
+      		{	window.mermaid.initialize({theme: 'neutral'})
+window.mermaid.contentLoaded();
+}*/
+    function initMermaid(){
+  				//if (window.mermaid) 
+  				//	window.mermaid.contentLoaded()
+    }
+  </script>
+<% } %>
+
