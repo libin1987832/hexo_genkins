@@ -7,7 +7,6 @@ tags:
 
 ## 编辑器窗口（Editor）下的常用快捷键：
 <!--more-->
-http://www.windows7en.com/it/48316.html
 1. 轻松访问键盘快捷方式 ↖下表包含了可以有助于使计算机更易于使用的键盘快捷方式。
 按键 功能
 按住右 Shift 八秒钟 启用和关闭筛选键
@@ -15,7 +14,7 @@ http://www.windows7en.com/it/48316.html
 按左 Alt+左 Shift+Num Lock 启用或关闭鼠标键
 按 Shift 五次 启用或关闭粘滞键
 按住 Num Lock 五秒钟 启用或关闭切换键
-Windows 徽标键 + U 打开轻松访问中心
+
 2. 常规键盘快捷方式 ↖下表包含了常规键盘快捷方式。
 按键功能二编辑
 F1 显示帮助
@@ -42,7 +41,7 @@ Alt+空格键 为活动窗口打开快捷方式菜单
 Ctrl+F4 关闭活动文档（在允许同时打开多个文档的程序中）
 Alt+Tab 在打开的项目之间切换
 Ctrl+Alt+Tab 使用箭头键在打开的项目之间切换
-Ctrl+鼠标滚轮 更改桌面上的图标大小
+
 Windows 徽标键 + Tab 使用 Aero Flip 3-D 循环切换任务栏上的程序
 Ctrl + Windows 徽标键 + Tab 通过 Aero Flip 3-D 使用箭头键循环切换任务栏上的程序
 Alt+Esc 以项目打开的顺序循环切换项目
@@ -73,7 +72,11 @@ Enter 对于许多选定命令代替单击鼠标
 F1 显示帮助
 F4 显示活动列表中的项目
 Backspace 如果在“另存为”或“打开”对话框中选中了某个文件夹，则打开上一级文件夹
-4. Windows 徽标键相关的快捷键 ↖Windows徽标键就是显示为Windows旗帜，或标有文字Win或Windows的按键，以下简称Win键。XP时代有4个经典的 Win 键组合：R/E/F/L。到了 Win7，花样更多了。
+4. Windows 徽标键相关的快捷键
+创建新的虚拟桌面：Win + Ctrl + D 
+关闭当前虚拟桌面：Win + Ctrl + F4 
+切换虚拟桌面：Win + Ctrl +左/右
+ ↖Windows徽标键就是显示为Windows旗帜，或标有文字Win或Windows的按键，以下简称Win键。XP时代有4个经典的 Win 键组合：R/E/F/L。到了 Win7，花样更多了。
 Win：打开或关闭开始菜单。
 Win + Pause：显示系统属性对话框。
 Win + D：显示桌面。
@@ -121,17 +124,6 @@ Alt+上方向键 打开上层文件夹
 Ctrl+鼠标滚轮 改变文件和文件夹图标的大小和外观
 Alt+D 选中地址栏（定位到地址栏）
 Ctrl+E 选中搜索框（定位到搜索框）
-6. 放大镜键盘快捷方式 ↖下表包含了使用放大镜的键盘快捷方式。
-按键功能四编辑
-Windows 徽标键 + 加号或减号 放大或缩小
-Ctrl+Alt+空格键 显示鼠标指针
-Ctrl+Alt+F 切换到全屏模式
-Ctrl+Alt+L 切换到镜头模式
-Ctrl+Alt+D 切换到停靠模式
-Ctrl+Alt+I 反色
-Ctrl+Alt+箭头键 按箭头键的方向平移
-Ctrl+Alt+R 调整镜头的大小
-Windows 徽标键 + Esc 退出放大镜
 7. 远程桌面相关快捷键 ↖Alt+Page Up 按从左向右顺序切换程序
 Alt+Page Down 按从右向左切换程序
 Alt+Insert 按程序打开先后顺序循环切换程序
