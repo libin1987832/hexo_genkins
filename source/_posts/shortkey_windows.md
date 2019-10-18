@@ -5,6 +5,11 @@ tags:
 ---
 # windows short key
 
+## cmd 
+soft uninstall : appwiz.cpl
+setx environment : set
+
+
 ## 编辑器窗口（Editor）下的常用快捷键：
 <!--more-->
 1. 轻松访问键盘快捷方式 ↖下表包含了可以有助于使计算机更易于使用的键盘快捷方式。
