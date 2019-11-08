@@ -5,8 +5,7 @@ tags:
   - time
 top: 1
 ---
-#### dateFormat  MM-DD
-#### title 时间计划表
+
 {% mermaid gantt %}	
 	section plan
 	theorem     :active,    des1, 2019-10-21,10d
@@ -14,7 +13,7 @@ top: 1
 	modify      :         des3, after des2, 30d
 {% endmermaid %}
 
-<	!--more-->
+<!--more-->
 
 # section plan
 ## 	finish data code    :active,    des1, 2019-09-06,4d
