@@ -1,4 +1,4 @@
-title: plan
+title: manage time
 author: lb
 tags:
 categories:
