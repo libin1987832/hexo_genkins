@@ -52,3 +52,7 @@ docker run -d -p 5000:5000 --restart=always --name registry registry:2
 1. 要删系统程序不容易，主要是厂家会设置障碍，各种厂家设置还不一定一样。
 2. adb root 还是没有成功
 3. mount怎么在魅族note3不见了的原因
+
+
+
+## github.com libin1987832 198783luoxing

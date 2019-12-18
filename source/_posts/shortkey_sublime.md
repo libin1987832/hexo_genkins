@@ -6,11 +6,15 @@ categories: shortkey
 ---
 # sumblime shortkey
 <!--more-->
+## all keybind in Preferences
+## Oh,forget
+- Ctrl+0 focus on sider(folder)
+
 ##选择类
 - Ctrl+D 选中光标所占的文本，继续操作则会选中下一个相同的文本。
 - Alt+F3 选中文本按下快捷键，即可一次性选择全部的相同文本进行同时编辑
 - Ctrl+Shift+L 先选中多行，再按下快捷键，会在每行行尾插入光标，即可同时编辑这些行。
-- Ctrl+Shift+M 选择括号内的内容（继续选择父括号）。举个栗子：快速选中删除函数中的代码，重写函数体代码或重写括号内里的内容。
+- Ctrl+Shift+M 选择括号内的内容（继续选择父括号）。栗子：快速选中删除函数中的代码，重写函数体代码或重写括号内里的内容。
 - Ctrl+M 光标移动至括号内结束或开始的位置。
 - Ctrl+Enter 在下一行插入新行。举个栗子：即使光标不在行尾，也能快速向下插入一行。
 - Ctrl+Shift+Enter 在上一行插入新行。举个栗子：即使光标不在行首，也能快速向上插入一行。
