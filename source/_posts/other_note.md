@@ -6,10 +6,11 @@ tags:
 # record 
 
 ## mermaid
+dfodify makeGrid 
 
-dfodify makeGrid dfjkasdjfk该哈哈哈
+## record
 sublime 利用ctrl+`调出控制台 再利用sublime.log(true) 可以看到调用的按时过程
-
+		
 ## record
 1. android root 搞了好久,现在终于明白一些 浪费很多时间_ _|
 2. 博客问题也解决很多 Android端 自动编译 基本完成了
@@ -53,6 +54,8 @@ docker run -d -p 5000:5000 --restart=always --name registry registry:2
 2. adb root 还是没有成功
 3. mount怎么在魅族note3不见了的原因
 
+## bat
+set  延迟问题 字符串和其他类型 注意空格 注意条件操作方式
 
 
-## github.com libin1987832 198783luoxing
+
