@@ -10,6 +10,9 @@ dfodify makeGrid
 
 ## record
 sublime 利用ctrl+`调出控制台 再利用sublime.log(true) 可以看到调用的按时过程
+
+## shortkey
+adobe 全屏快捷键 ctrl+H
 		
 ## record
 1. android root 搞了好久,现在终于明白一些 浪费很多时间_ _|
