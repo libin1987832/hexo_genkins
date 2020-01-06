@@ -11,6 +11,10 @@ dfodify makeGrid
 ## record
 sublime 利用ctrl+`调出控制台 再利用sublime.log(true) 可以看到调用的按时过程
 
+## hnu email
+libin8783@hnu.edu.cn
+Libin123
+
 ## shortkey
 adobe 全屏快捷键 ctrl+H
 		
