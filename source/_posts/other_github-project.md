@@ -24,3 +24,6 @@ git commit -m 'update .gitignore'
 
 ## libin1987832 
 198783luoxing
+
+## log
+git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'"
