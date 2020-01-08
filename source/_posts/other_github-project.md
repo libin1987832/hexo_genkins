@@ -21,6 +21,9 @@ git commit -m 'update .gitignore'
 ## bug:单纯错误
 ## feat:大的修改
 ## system:操作错误,系统错误导致的问题
+## oops: forget commit amend
+## wip: work in progress commit amend
+
 
 ## libin1987832 
 198783luoxing
