@@ -4,7 +4,7 @@ date: 2019-09-08 15:27:38
 tags:
 ---
 # windows short key
-
+Alt+ enter 查看属性
 ## cmd 
 soft uninstall : appwiz.cpl
 setx environment : set
