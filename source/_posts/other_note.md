@@ -17,7 +17,8 @@ Libin123
 
 ## vultr
 libin19878@gmail.com
-libin198783
+Libin198783
+验证码出错也报密码错误
 ## shortkey
 adobe 全屏快捷键 ctrl+H
 		
