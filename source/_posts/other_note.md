@@ -15,6 +15,9 @@ sublime 利用ctrl+`调出控制台 再利用sublime.log(true) 可以看到调�
 libin8783@hnu.edu.cn
 Libin123
 
+## vultr
+libin19878@gmail.com
+libin198783
 ## shortkey
 adobe 全屏快捷键 ctrl+H
 		
