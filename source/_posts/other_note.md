@@ -68,5 +68,11 @@ docker run -d -p 5000:5000 --restart=always --name registry registry:2
 ## bat
 set  延迟问题 字符串和其他类型 注意空格 注意条件操作方式
 
+## grub 修改
+1./etc/grub(defualt)/grub.cfg
+2.defualt = 0
+3.update-grub(grub-mkconfig -o /boot/grub/grub.cfg)
+
+
 
 
