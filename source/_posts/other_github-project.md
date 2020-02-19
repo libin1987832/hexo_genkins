@@ -15,14 +15,11 @@ git add .
 git commit -m 'update .gitignore'
 
 # git commit message
-## issue:已经有的功能,出现了问题,问题内容
-## fix:增加某些小的功能
-## sturct:修改了文件名,目录结果改变
-## bug:单纯错误
-## feat:大的修改
-## system:操作错误,系统错误导致的问题
-## oops: forget commit amend
-## wip: work in progress commit amend
+## issue:已经有的功能,出现了问题,问题内容(重大问题)
+## fix:增加某些小的功能（修复小问题）
+## bug:单纯错误（泛着错误）
+## oops: 低级错误
+## wip:没有完成 在进行中 没有什么话说
 
 
 ## libin1987832 

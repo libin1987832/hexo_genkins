@@ -71,6 +71,12 @@ set  延迟问题 字符串和其他类型 注意空格 注意条件操作方式
 2.defualt = 0
 3.update-grub(grub-mkconfig -o /boot/grub/grub.cfg)
 
+
+## jenkins
+lb 
+123456
+
+
 ## sublime crack
 1.3211 rec
 2.host bat
