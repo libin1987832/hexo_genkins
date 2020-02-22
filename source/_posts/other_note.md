@@ -77,6 +77,9 @@ lb
 123456
 
 
+## tencent cname
+libin19873@sohu.com
+Libin198783@
 ## sublime crack
 1.3211 rec
 2.host bat

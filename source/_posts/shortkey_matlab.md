@@ -45,3 +45,18 @@ tags:
 - clf  clear figure（清理图形窗口）（并非关闭figure窗口）
 - close         关闭最近的figure窗口
 - close all     关闭所有figure窗口
+
+## picture
+- line
+~~~ matlab
+[X,Y] = meshgrid(-2:.2:2,-2:.2:3);
+
+Z = X.*exp(-X.^2-Y.^2);
+
+[C,h] = contour(X,Y,Z);
+
+set(h,'ShowText','on','TextStep',get(h,'LevelStep')*2)
+
+colormap cool
+
+~~~
