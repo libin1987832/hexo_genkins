@@ -107,7 +107,52 @@ DD9AF44B 99C49590 D2DBDEE1 75860FD2
 8C8BB2AD B2ECE5A4 EFC08AF2 25A9B864
 ------ END LICENSE ------
 
+### android 
+xcopy C:\Users\Knair D:\KnairWang /e /v /i /g /h /k /o /x /b /c
+mklink /J C:\Users\Knair D:\KnairWang
+Android adb调试
+1、首先是adb 修改 devices/amlogic/p201_iptv/system.prop
+service.adb.tcp.port=5555
+或者直接在盒子串口下修?system/build.prop 将上述行注释打开 
+2、执行以上步骤后，手动stop adbd, start adbd.(若想每次开机自动执行可加在盒子system/bin/set_display_mode.sh最?
 
+3?echo 1 > /sys/class/remount/need_remount; mount -o rw,remount /system
+mount -o rw,remount /system
+
+直接修改系统目录下文件权?mount -o remount,rw /
+chmod 777 文件?如：chmod 777 system/app/
+
+5、adb connect adb push （中间不用adb remount?
+adb remount   超级用户权限 
+
+1. 首先版本要高
+
+adb version     查看版本?2. 配置挂载权限
+echo 1 > /sys/class/remount/need_remount
+mount -o rw,remount /system 
+mount -o rw,remount /system
+3. adb remount 具有超级用户权限
+
+adb remount 更改文件系统权限
+烧写序列?工厂模式到客?
+
+查看apk的库和包?将apk后缀改为zip
+解压
+
+串口启动App加包?monkey -p com.android.launcher -v 1             启动APK
+pm list packages |grep UMSetting                   查找APK的包?
+dumpsys activity top                                         查看当前界面的APK状?
+ 
+查看apk的库和包名和主界面名
+1.在adb程序中将aapt加入系统路径
+2.aapt.exe d badging UMAuthHW.apk
+logcat -c;logcat |grep UMAuthHW
+
+端口占用
+adb nodaemon server 查看adb端口是否在被占用
+netstat -ano | findstr "5037" 查找端口的占用程?tasklist | findstr "8516" 查找应用程序
+tasklist 进程列表
+taskkill /f /pid 963 杀死进?
 
 
 
