@@ -2,7 +2,6 @@
 title: deep learnning
 date: 2019-10-11 11:21:36
 tags:
-top: 4
 ---
 # android
 ## android 原理到底是什么
