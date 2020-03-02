@@ -76,6 +76,19 @@ set  延迟问题 字符串和其他类型 注意空格 注意条件操作方式
 lb 
 123456
 
+## hub.docker
+qbdocker123
+libin198783
+docker pull 192.168.0.250:5001/nlp-test:1.0
+
+###私库搭建dock
+docker run -d -p 5001:5000 --restart=always -v H:/docker:/var/lib/registry --name registry google/docker-registry
+r 
+docker run -ti -p 8000:8000 -v H:/code/SplitServer:/code  --name nlp 192.168.0.250:5001/nlp-test:1.0
+
+## https://coolgay.online/user
+muzi198783@163.com
+libin198783
 
 ## tencent cname
 libin19873@sohu.com
