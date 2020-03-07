@@ -60,3 +60,5 @@ set(h,'ShowText','on','TextStep',get(h,'LevelStep')*2)
 colormap cool
 
 ~~~
+
+matlab -nojvm -nodesktop -nodisplay -r "test(2, 3)"  
