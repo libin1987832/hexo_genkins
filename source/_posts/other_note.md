@@ -88,7 +88,7 @@ docker run -ti -p 8000:8000 -v H:/code/SplitServer:/code  --name nlp 192.168.0.2
 
 ## https://coolgay.online/user
 muzi198783@163.com
-libin198783
+Libin198783
 
 ## tencent cname
 libin19873@sohu.com
