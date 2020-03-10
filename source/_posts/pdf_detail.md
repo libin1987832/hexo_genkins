@@ -14,6 +14,11 @@ top: 2
 # numeric
 ---
 ## [Numerical Analysis\(Timothy Sauer\)](http://muzi198783.iok.la:27939/numeric/Numerical_Analysis(Timothy_Sauer).pdf)
+## [Applied Numerical Linear Algebra](http://muzi198783.iok.la:27939/numeric/applied%20numerical%20linear%20algebra.pdf)
+
+# optimization
+---
+## [Numerical Optimization](http://muzi198783.iok.la:27939/optimization/numerical%20Optimization.pdf)
 
 # linear inequalites
 ---

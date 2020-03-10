@@ -15,3 +15,17 @@ top: 6
 
 
 想办法搞个仓库自动下载等等 这个地方只放文档
+
+## 重要软件和位置
+1. matlab
+2. texlive
+3. texStudio
+4. office
+5. docker
+6. vs
+7. adobe
+8. unrar
+9. git
+10. chrome
+11. putty
+12. clash
