@@ -171,3 +171,9 @@ taskkill /f /pid 963 杀死进?
 muzi198783@163.com
 libin198783
 
+## texstudio
+ubuntu 14.04
+1. sudo apt-get install texlive
+2. sudo apt-get install texstudio (ctex texlive-full)
+3. windos font copy to /usr/share/fonts/(there are some font may make english font worse,but I dont know which one)
+4. mkfontscale mkfontdir mkcahe -fsv
