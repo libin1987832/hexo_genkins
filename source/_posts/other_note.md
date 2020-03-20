@@ -177,3 +177,6 @@ ubuntu 14.04
 2. sudo apt-get install texstudio (ctex texlive-full)
 3. windos font copy to /usr/share/fonts/(there are some font may make english font worse,but I dont know which one)
 4. mkfontscale mkfontdir mkcahe -fsv
+
+## error analysis
+\[a good talk about it\]\(https://www.researchgate.net/post/What_is_stopping_criteria_of_any_optimization_algorithm \)
