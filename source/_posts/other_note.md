@@ -86,6 +86,12 @@ docker run -d -p 5001:5000 --restart=always -v H:/docker:/var/lib/registry --nam
 r 
 docker run -ti -p 8000:8000 -v H:/code/SplitServer:/code  --name nlp 192.168.0.250:5001/nlp-test:1.0
 
+### docker software
+@echo off
+for /r %%b in (*.pdf)do docker run -ti --rm -v %pwd%:/app pdf2txt %%b > %%b.txt
+@echo off
+docker run -ti --rm -v F:/code_bak/git/latex:/home chxuan/ubuntu-vimplus vim /home 
+
 ## https://coolgay.online/user
 muzi198783@163.com
 Libin198783
