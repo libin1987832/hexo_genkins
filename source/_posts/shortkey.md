@@ -8,3 +8,4 @@ top: 3
 [markdown](./2019/08/21/shortkey_markdown)
 [matlab](./2019/09/08/shortkey_matlab)
 [sublime](./2019/09/08/shortkey_sublime)
+# [adobe](https://helpx.adobe.com/cn/acrobat/using/keyboard-shortcuts.html)
