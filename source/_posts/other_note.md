@@ -186,3 +186,19 @@ ubuntu 14.04
 
 ## error analysis
 \[a good talk about it\]\(https://www.researchgate.net/post/What_is_stopping_criteria_of_any_optimization_algorithm \)
+
+
+## winrm
+remote link 
+pstool
+service ps
+winrm quickcheck -q
+winrm listener
+winrm set winrm/config/service @{AllowUnencrypted="true"}
+winrm set winrm/config/service/auth @{Basic="true"}
+link pc
+winrm set winrm/config/Client @{AllowUnencrypted="true"}
+winrs -r:http://ip:port -u: -p command
+
+if there is a docker network ,it is 公用网络
+https://paper.seebug.org/1004/
