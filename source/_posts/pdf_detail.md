@@ -19,6 +19,7 @@ top: 2
 # optimization
 ---
 ## [Numerical Optimization](http://muzi198783.iok.la:27939/optimization/numerical%20Optimization.pdf)
+## [The Linear Complementarity Problem](http://muzi198783.iok.la:27939/optimization/The%20Linear%20Complementarity%20Problem.pdf)
 
 # linear inequalites
 ---
