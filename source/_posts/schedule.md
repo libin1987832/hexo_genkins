@@ -8,9 +8,8 @@ top: 1
 
 {% mermaid gantt %}	
 	section plan
-	theorem     :active,    des1, 2019-10-21,10d
-	write        : des2, after des1, 30d
-	modify      :         des3, after des2, 30d
+	write     :active,    des1, 2020-08-17,10d
+	modify(Lei)        : des2, after des1, 5d
 {% endmermaid %}
 
 <!--more-->

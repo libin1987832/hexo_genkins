@@ -9,14 +9,6 @@ top: 4
 <!--more-->
 
 # paper 
-
-# tex
-- []
-
-# math
-- [ ] 看数值计算
-- [ ] 看凸优化
-- [ ] 优化理论 
-
-# english:
-
+remeber a paragraph
+write a paragraph
+listen a paragraph
