@@ -1,7 +1,0 @@
-cp h:/git/hexo/_config.yml .
-cp -r h:/git/hexo/themes/lb/* themes/lb/
-cp -r h:/git/hexo/node_modules/* node_modules/
-rm -r source
-cp -r h:/git/hexo/source .
-
-cp h:/git/hexo/node_modules/hexo-tag-gantt/index.windows node_modules/hexo-tag-gantt/index.js 
