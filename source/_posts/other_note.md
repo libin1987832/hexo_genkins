@@ -187,6 +187,15 @@ ubuntu 14.04
 ## error analysis
 \[a good talk about it\]\(https://www.researchgate.net/post/What_is_stopping_criteria_of_any_optimization_algorithm \)
 
+## network share
+1. 每个用户都是有一个身份，IIS会默认一个访问者给予一个身份 一般是ISUR
+2. 如果自己电脑无法被别人看到 则可能是自己电脑没有安装SMB服务器 还有就是网络的身份和网络共享设置未开启
+3. 别人无法发现自己的电脑 则可能是安全策略里面有一个发现计算机选项
+4. 空密码有一个选项可能导致别人无法发现
+5. IIS目录访问需要开启一个目录权限选项 还有目录安全策略需要添加账户
+
+## hexo debug
+1. hexo -g --debug
 
 ## winrm
 remote link 
@@ -202,3 +211,4 @@ winrs -r:http://ip:port -u: -p command
 
 if there is a docker network ,it is 公用网络
 https://paper.seebug.org/1004/
+
